@@ -69,7 +69,7 @@ if __name__ == "__main__":
         type=str,
         required=False,
         help="OpenAI API key",
-        default = "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"
+        #default = ""
     )
     parser.add_argument(
         "--agent",
