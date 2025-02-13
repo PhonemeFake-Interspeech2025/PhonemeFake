@@ -2,14 +2,6 @@
 
 Put the dataset into the dataset1 folder and run the ``pipe.sh``.
 
-Stages for 
-
-- [x] stage_1: transcription with whisper/wav2vec + timing
-- [x] stage_2: infideliating with llm (gpt/llama/claudai)
-- [x] stage_3: timing the words
-- [x] stage_4: synthesis with TTS/openvoice
-- [x] stage_5: post-processing for final audio: inclusion/deletion/inversion
-
 Below image shows the spectograms of the original (top) and DF (bottom) samples for the example audio which vocalizes the transcript:
 ``Government approves new policy to support small businesses amid economic slowdown.`` The word approves converted to rejects.
 
