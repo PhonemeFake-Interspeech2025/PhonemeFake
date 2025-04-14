@@ -1,8 +1,12 @@
 # PhonemeFake: A Phonetic DeepFake Dataset with Fine-Grained Manipulations
 ## PhonemeFake Synthesis Pipeline
-<img src="./assets/pf_synthesis.gif" width="800"> 
+
+<img src="./assets/pf_synthesis.gif" width="600"> 
+
 ## Bilevel Detection Architecture 
-<img src="./assets/bilevel_detection.gif" width="800"> 
+
+<img src="./assets/bilevel_detection.gif" width="600"> 
+
 Put the dataset into the dataset1 folder and run the ``pipe.sh``.
 
 Below image shows the spectograms of the original (top) and DF (bottom) samples for the example audio which vocalizes the transcript:
