@@ -39,6 +39,10 @@ To run the script, provide detection model, dataset and version as arguments. Fo
   ./reproduce.sh conf-3 ITW phonemeFake
   ```
 
+# Results
+
+<img src="./assets/image.png" width="800"> 
+
 ## Dataset Directories
 
 The dataset directories are defined at the beginning of the script, please do not forget to update the directories.
